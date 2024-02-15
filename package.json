@@ -1,14 +1,17 @@
 {
   "name": "mern-crud-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "this is a mern-crud-app for my exercise of auth and crud apps",
   "scripts": {
     "server": "npm run dev --prefix server",
     "client": "npm run dev --prefix client",
     "dev": "npm run server & npm run client"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "MERN",
+    "React",
+    "Express"
+    ],
+  "author": "Abdul Azis",
   "license": "ISC"
 }
